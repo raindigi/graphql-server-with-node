@@ -1,4 +1,4 @@
-[![Open Source Helpers](https://www.codetriage.com/raindigi/graphql-server-with-node/badges/users.svg)](https://www.codetriage.com/raindigi/graphql-server-with-node)
+[![Open Source Helpers](https://www.codetriage.com/raindigi/graphql-server-with-node/badges/users.svg)](https://www.codetriage.com/raindigi/graphql-server-with-node)[![Coverage Status](https://coveralls.io/repos/github/raindigi/graphql-server-with-node/badge.svg?branch=master)](https://coveralls.io/github/raindigi/graphql-server-with-node?branch=master)
 ## Installation
 
 Clone the repository from one of the versions in the [tags](https://github.com/saurabharch/GraphqlType-API-Registration/tags)
